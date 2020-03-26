@@ -1,3 +1,3 @@
 ## Pong 2
 
-[HTML5](http://mssite.org/projects/Pong2/)
+[HTML5](https://rblsb.github.io/Pong2/)
